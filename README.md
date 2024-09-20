@@ -17,6 +17,6 @@ git-browser是一款简易浏览器，您可以通过它直接访问chatgpt、gi
 ![image](https://github.com/user-attachments/assets/3340bb13-4525-412d-b1b0-7123fe07c4f7)
 ### 6、Enjoy
 
-## QA。
+## QA
 ### 1、为什么不能访问google.com
-**A**: git-browser设计之初就是为了访问github和chatgpt，用于学习和工作，google上存在大量争议内容，因此为了作者安全，git-browser不会支持访问存在争议性的网站。
+git-browser设计之初就是为了访问github和chatgpt，用于学习和工作，google上存在大量争议内容，因此为了作者安全，git-browser不会支持访问存在争议性的网站。
