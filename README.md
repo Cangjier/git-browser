@@ -1,6 +1,9 @@
 # git-browser
 git-browser是一款简易浏览器，您可以通过它直接访问chatgpt、github等网站。
 如果你有需要，可以通过releases进行下载使用。
+![GitHub all releases](https://img.shields.io/github/downloads/Cangjier/git-browser/total)
+![GitHub release (latest by tag)](https://img.shields.io/github/downloads/Cangjier/git-browser/latest/total)
+
 ## 使用教程
 ### 1、进入Releases界面
 👉 [https://github.com/Cangjier/git-browser/releases](https://github.com/Cangjier/git-browser/releases)
